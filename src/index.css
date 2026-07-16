@@ -1,13 +1,13 @@
 :root {
   --primary-color: #d8b4e2;
   --primary-hover: #c49bc9;
-  --bg-color: #3F1F4E;
-  --surface-color: #612F77;
+  --bg-color: #381B44;
+  --surface-color: #592C6D;
   --text-primary: #f8fafc;
   --text-secondary: #e2e8f0;
   --error-color: #ef4444;
   --success-color: #10b981;
-  --border-color: #4A245B;
+  --border-color: #381B44;
   --ring-color: rgba(216, 180, 226, 0.5);
   font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
