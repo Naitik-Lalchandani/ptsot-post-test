@@ -7,68 +7,68 @@ const QUESTION_DATA = [
   {
     number: 1,
     imageSrc: `./questions/question.png`,
-    questionText: <>1. Imagine you are standing at the <b>car</b> and facing the <b>traffic light</b>. Select the correct direction and angle at which the <b>stop sign</b> will be.</>,
-    centerLabel: 'car', topLabel: 'traffic light'
+    questionText: <>1. Imagine you are standing at the <b>tree</b> and facing the <b>car</b>. Select the correct direction and angle at which the <b>stop sign</b> will be.</>,
+    centerLabel: 'tree', topLabel: 'car'
   },
   {
     number: 2,
     imageSrc: `./questions/question.png`,
-    questionText: <>2. Imagine you are standing at the <b>cat</b> and facing the <b>tree</b>. Select the correct direction and angle at which the <b>car</b> will be.</>,
-    centerLabel: 'cat', topLabel: 'tree'
+    questionText: <>2. Imagine you are standing at the <b>flower</b> and facing the <b>stop sign</b>. Select the correct direction and angle at which the <b>traffic light</b> will be.</>,
+    centerLabel: 'flower', topLabel: 'stop sign'
   },
   {
     number: 3,
     imageSrc: `./questions/question.png`,
-    questionText: <>3. Imagine you are standing at the <b>stop sign</b> and facing the <b>cat</b>. Select the correct direction and angle at which the <b>house</b> will be.</>,
-    centerLabel: 'stop sign', topLabel: 'cat'
+    questionText: <>3. Imagine you are standing at the <b>house</b> and facing the <b>stop sign</b>. Select the correct direction and angle at which the <b>car</b> will be.</>,
+    centerLabel: 'house', topLabel: 'stop sign'
   },
   {
     number: 4,
     imageSrc: `./questions/question.png`,
-    questionText: <>4. Imagine you are standing at the <b>cat</b> and facing the <b>flower</b>. Select the correct direction and angle at which the <b>car</b> will be.</>,
-    centerLabel: 'cat', topLabel: 'flower'
+    questionText: <>4. Imagine you are standing at the <b>flower</b> and facing the <b>cat</b>. Select the correct direction and angle at which the <b>traffic light</b> will be.</>,
+    centerLabel: 'flower', topLabel: 'cat'
   },
   {
     number: 5,
     imageSrc: `./questions/question.png`,
-    questionText: <>5. Imagine you are standing at the <b>stop sign</b> and facing the <b>tree</b>. Select the correct direction and angle at which the <b>traffic light</b> will be.</>,
-    centerLabel: 'stop sign', topLabel: 'tree'
+    questionText: <>5. Imagine you are standing at the <b>stop sign</b> and facing the <b>house</b>. Select the correct direction and angle at which the <b>traffic light</b> will be.</>,
+    centerLabel: 'stop sign', topLabel: 'house'
   },
   {
     number: 6,
     imageSrc: `./questions/question.png`,
-    questionText: <>6. Imagine you are standing at the <b>stop sign</b> and facing the <b>flower</b>. Select the correct direction and angle at which the <b>car</b> will be.</>,
-    centerLabel: 'stop sign', topLabel: 'flower'
+    questionText: <>6. Imagine you are standing at the <b>tree</b> and facing the <b>car</b>. Select the correct direction and angle at which the <b>flower</b> will be.</>,
+    centerLabel: 'tree', topLabel: 'car'
   },
   {
     number: 7,
     imageSrc: `./questions/question.png`,
-    questionText: <>7. Imagine you are standing at the <b>traffic light</b> and facing the <b>house</b>. Select the correct direction and angle at which the <b>flower</b> will be.</>,
-    centerLabel: 'traffic light', topLabel: 'house'
+    questionText: <>7. Imagine you are standing at the <b>cat</b> and facing the <b>traffic light</b>. Select the correct direction and angle at which the <b>stop sign</b> will be.</>,
+    centerLabel: 'cat', topLabel: 'traffic light'
   },
   {
     number: 8,
     imageSrc: `./questions/question.png`,
-    questionText: <>8. Imagine you are standing at the <b>house</b> and facing the <b>flower</b>. Select the correct direction and angle at which the <b>stop sign</b> will be.</>,
-    centerLabel: 'house', topLabel: 'flower'
+    questionText: <>8. Imagine you are standing at the <b>flower</b> and facing the <b>car</b>. Select the correct direction and angle at which the <b>stop sign</b> will be.</>,
+    centerLabel: 'flower', topLabel: 'car'
   },
   {
     number: 9,
     imageSrc: `./questions/question.png`,
-    questionText: <>9. Imagine you are standing at the <b>car</b> and facing the <b>stop sign</b>. Select the correct direction and angle at which the <b>tree</b> will be.</>,
-    centerLabel: 'car', topLabel: 'stop sign'
+    questionText: <>9. Imagine you are standing at the <b>house</b> and facing the <b>flower</b>. Select the correct direction and angle at which the <b>traffic light</b> will be.</>,
+    centerLabel: 'house', topLabel: 'flower'
   },
   {
     number: 10,
     imageSrc: `./questions/question.png`,
-    questionText: <>10. Imagine you are standing at the <b>traffic light</b> and facing the <b>cat</b>. Select the correct direction and angle at which the <b>car</b> will be.</>,
-    centerLabel: 'traffic light', topLabel: 'cat'
+    questionText: <>10. Imagine you are standing at the <b>cat</b> and facing the <b>flower</b>. Select the correct direction and angle at which the <b>house</b> will be.</>,
+    centerLabel: 'cat', topLabel: 'flower'
   },
   {
     number: 11,
     imageSrc: `./questions/question.png`,
-    questionText: <>11. Imagine you are standing at the <b>tree</b> and facing the <b>flower</b>. Select the correct direction and angle at which the <b>house</b> will be.</>,
-    centerLabel: 'tree', topLabel: 'flower'
+    questionText: <>11. Imagine you are standing at the <b>traffic light</b> and facing the <b>flower</b>. Select the correct direction and angle at which the <b>car</b> will be.</>,
+    centerLabel: 'traffic light', topLabel: 'flower'
   },
   {
     number: 12,

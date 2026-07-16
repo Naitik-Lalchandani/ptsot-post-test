@@ -151,21 +151,21 @@ export default function IntroPage({ onStart }) {
       <ExampleQuestion 
         questionNumber={1}
         imageSrc="./questions/question.png"
-        questionText={<>Imagine you are standing at the <b>cat</b> and facing the <b>house</b> (this is 0°). Now measure clockwise to find the <b>stop sign</b>.</>}
+        questionText={<>Imagine you are standing at the <b>cat</b> and facing the <b>tree</b> (this is 0°). Now measure clockwise to find the <b>house</b>.</>}
         centerLabel="cat"
-        topLabel="house"
-        correctAngle={60}
-        explanation="Since you are facing the house, the stop sign is to your front-right, making it a 60-degree angle."
+        topLabel="tree"
+        correctAngle={120}
+        explanation="Since you are facing the tree, the house is to your front-right, making it a 120-degree angle."
       />
 
       <ExampleQuestion 
         questionNumber={2}
         imageSrc="./questions/question.png"
-        questionText={<>Imagine you are standing at the <b>cat</b> and facing the <b>house</b> (this is 0°). Now measure clockwise to find the <b>flower</b>.</>}
+        questionText={<>Imagine you are standing at the <b>cat</b> and facing the <b>tree</b> (this is 0°). Now measure clockwise to find the <b>traffic light</b>.</>}
         centerLabel="cat"
-        topLabel="house"
+        topLabel="tree"
         correctAngle={300}
-        explanation="Facing the house, the flower is to your left. Measuring clockwise, 360 - 60 = 300 degrees."
+        explanation="Facing the tree, the traffic light is to your left. Measuring clockwise, it is a 300-degree angle."
       />
 
       <div className="card" style={{ textAlign: 'center' }}>
